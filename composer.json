@@ -1,0 +1,17 @@
+{
+    "name": "luismy/bienes-raices_poo",
+    "description": "Bienes raices con poo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Angel Suarez"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2"
+    }
+}

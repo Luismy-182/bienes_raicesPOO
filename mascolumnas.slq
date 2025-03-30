@@ -1,0 +1,4 @@
+
+
+ALTER TABLE propiedades
+ADD COLUMN creado date;
